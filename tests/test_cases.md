@@ -14,4 +14,4 @@
 - [x] `a=6, m=9` -> không tồn tại nghịch đảo modulo
 
 ## 3. Ghi chú
-Test đã đủ ít nhất 5 case và bao gồm cả trường hợp tồn tại và không tồn tại nghịch đảo.
+Đã kiểm tra với ít nhất 5 test case, bao gồm cả trường hợp có và không có nghịch đảo modulo.
